@@ -4,3 +4,7 @@ def sum(x, y):
 
 def later(x, y): 
     return "later func"
+
+
+def say_hi():
+    return "HI"
