@@ -8,3 +8,7 @@ def later(x, y):
 
 def say_hi():
     return "HI"
+
+
+def fork_func():
+    return "This func from fork!"
